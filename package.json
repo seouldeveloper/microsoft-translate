@@ -1,55 +1,32 @@
 {
   "name": "microsoft-translate",
-  "version": "0.0.2",
-  "description": "Microsoft Translator module for node.js",
+  "version": "0.0.4",
+  "description": "microsoft translate module",
   "main": "index.js",
-  "scripts": {
-    "test": "none"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/seouldeveloper/microsoft-translate.git"
-  },
-  "keywords": [
-    "microsoft",
-    "translate",
-    "translator",
-    "translation"
-  ],
-  "author": {
-    "name": "Minseok Shim",
-    "email": "seouldeveloper.com@gmail.com"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/seouldeveloper/microsoft-translate/issues"
-  },
-  "homepage": "https://github.com/seouldeveloper/microsoft-translate",
-  "gitHead": "8be699da410da748e47d0a8e1e1cdff123a0cae8",
-  "_id": "microsoft-translate@0.0.1",
-  "_shasum": "ef0e500c11ddc4b7ffc64a3e4373c02a9688ad91",
-  "_from": "microsoft-translate@*",
-  "_npmVersion": "1.4.28",
-  "_npmUser": {
-    "name": "seouldeveloper",
-    "email": "seouldeveloper.com@gmail.com"
-  },
-  "maintainers": [
-    {
-      "name": "seouldeveloper",
-      "email": "seouldeveloper.com@gmail.com"
-    }
-  ],
-  "dist": {
-    "shasum": "ef0e500c11ddc4b7ffc64a3e4373c02a9688ad91",
-    "tarball": "http://registry.npmjs.org/microsoft-translate/-/microsoft-translate-0.0.1.tgz"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/microsoft-translate/-/microsoft-translate-0.0.1.tgz",
   "dependencies": {
     "http": "0.0.0",
     "https": "^1.0.0",
     "querystring": "^0.2.0",
     "request": "^2.81.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seouldeveloper/microsoft-translate.git"
+  },
+  "keywords": [
+    "google",
+    "translate",
+    "translator",
+    "translation"
+  ],
+  "author": "Minseok Shim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seouldeveloper/microsoft-translate/issues"
+  },
+  "homepage": "https://github.com/seouldeveloper/microsoft-translate#readme"
 }

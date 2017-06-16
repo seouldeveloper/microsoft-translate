@@ -30,5 +30,5 @@ translator.translate(obj, function(err, res) {
 
 ## Reference
 
-Please refer to [this link](http://docs.microsofttranslator.com/text-translate.html) for the
+Please refer to [this link](https://msdn.microsoft.com/en-us/library/hh456380.aspx) for the
 complete list of the languages supported by BING.
